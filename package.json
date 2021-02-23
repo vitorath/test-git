@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/vitorath/test-git.git",
   "author": "Vitor A Thomazini <vitor.thomazini94@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
