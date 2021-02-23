@@ -1,0 +1,8 @@
+{
+  "name": "advanced-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vitorath/test-git.git",
+  "author": "Vitor A Thomazini <vitor.thomazini94@gmail.com>",
+  "license": "MIT"
+}
